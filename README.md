@@ -17,3 +17,8 @@ Bias Current = 250nA
 Quiscent Power = 125E-05
 
 Other details included in PNG
+
+## Buckets Choosen
+
+Low Power,
+Minimal Complexity
