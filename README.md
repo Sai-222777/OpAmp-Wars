@@ -10,4 +10,8 @@ Open Loop Gain = 42
 
 Bandwidth = 250khz
 
+Phase Margin approximately 90 degrees
+
+
+
 Other details included in PNG
