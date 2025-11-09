@@ -18,6 +18,8 @@ Quiscent Power = 125E-05
 
 Other details included in PNG
 
+PSRR = of 5 dB approx
+
 ## Buckets Choosen
 
 Low Power,
